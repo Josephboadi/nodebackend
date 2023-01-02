@@ -1,13 +1,13 @@
 {
-  "name": "15tut",
+  "name": "nodejsbackend",
   "version": "1.0.0",
-  "description": "MongoDB tutorial",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Dave Gray",
+  "author": "Joseph Boadi",
   "license": "ISC",
   "engines": {
     "node": "14.x"
